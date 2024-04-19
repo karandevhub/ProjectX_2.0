@@ -1,0 +1,18 @@
+# Python bytecode files
+__pycache__/
+
+# Environment folder (if you're using virtual environments)
+venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Compiled Python files
+*.pyc
+
+# Dependency management files
+pip-log.txt
